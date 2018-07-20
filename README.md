@@ -11,4 +11,9 @@
 <p>to finish, when a player wins, the game stops with the message of the winning player and the game can start again thanks to the button “recommencer”.</p>
 <p><img src="https://i.imgur.com/Mt61wHq.png" alt=""></p>
 <h1 id="morpion-ia">Morpion-ia</h1>
+<p>the game plays with the left click of the mouse.</p>
+<p>there are statistics on the right and a button to reset the scores and another to restart the game</p>
+<p><img src="https://i.imgur.com/H6cH0SE.png" alt=""></p>
+<p>and when I click on a square, artificial intelligence plays to try to win against you.</p>
+<p><img src="https://i.imgur.com/z7NOwfd.png" alt=""></p>
 
