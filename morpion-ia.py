@@ -18,12 +18,6 @@ fenetre.configure(bg = "#00A7EB")
 fenetre.resizable(width=False, height=False)
 
 
-
-# 1 4 7
-# 2 5 8
-# 3 6 9
-
-
 case1 = Canvas(fenetre,width="140", height ="100", background="white")
 case1.place(x="80",y="20")
 case2 = Canvas(fenetre,width="140", height ="100", background="white")
