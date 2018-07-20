@@ -81,6 +81,7 @@ text66 = 1
 text77 = 1
 text88 = 1
 text99 = 1
+
 def principale():
     global zbeub, messagewin, nbr1, nbr2, nbr3, nbr4, nbr5, nbr6, nbr7, nbr8, nbr9, enleve,text1 , x, case_confirm1, joueur11, joueur21, joueur31, joueur41, joueur51, joueur61, joueur71, joueur81, joueur91, joueur12, joueur22, joueur32, joueur42, joueur52, joueur62, joueur72, joueur82, joueur92, case1, case2 , case3, case4, case5, case6, case7, case8, case9
     tourxmsg = tourx.create_text(40,25,text="au tour du\n  joueur X",fill="white",font="Impact 13")
