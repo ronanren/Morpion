@@ -1,21 +1,44 @@
-﻿###Fonctionnalités
+﻿<!DOCTYPE html>
+<html>
 
-- Morpion à deux joueur chacun son tour (Morpion)
-- Morpion contre un ordinateur (Morpion-ia)
-- Utilisation de python et du module Tkinter.
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
-# Morpion
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li><a href="#fonctionnalités">Fonctionnalités</a></li>
+</ul>
+</li>
+<li><a href="#morpion">Morpion</a></li>
+<li><a href="#morpion-ia">Morpion-ia</a></li>
+</ul>
 
-**Table des matières**
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h2 id="fonctionnalités">Fonctionnalités</h2>
+<ul>
+<li>Morpion à deux joueur chacun son tour (Morpion)</li>
+<li>Morpion contre un ordinateur (Morpion-ia)</li>
+<li>Utilisation de python et du module Tkinter.</li>
+</ul>
+<h1 id="morpion">Morpion</h1>
+<p>Le jeu se joue avec le clic gauche de la souris.<br>
+<img src="https://github.com/ronanren/Morpion/images/morpion1.png" alt=""></p>
+<h1 id="morpion-ia">Morpion-ia</h1>
 
-[TOCM]
+    </div>
+  </div>
+</body>
 
-[TOC]
-
-#Morpion
-
-le jeu se joue avec le clic gauche de la souris.
-![](https://github.com/ronanren/Morpion/images/morpion1.png)
-> Follow your heart.
-
-#Morpion-ia
+</html>
