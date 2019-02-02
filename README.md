@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -8,7 +9,24 @@
 </head>
 
 <body class="stackedit">
-<h1 id="jeu-du-morpion">Jeu du morpion</h1>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#jeu-du-morpion">Jeu du morpion</a>
+<ul>
+<li><a href="#fonctionnalités">Fonctionnalités</a></li>
+<li><a href="#morpion">Morpion</a></li>
+<li><a href="#morpion-ia">Morpion-ia</a></li>
+</ul>
+</li>
+</ul>
+
+    
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="jeu-du-morpion">Jeu du morpion</h1>
 <h2 id="fonctionnalités">Fonctionnalités</h2>
 <ul>
 <li>
@@ -26,7 +44,9 @@
 <p><img src="images/morpion1.png" alt=""></p>
 <h2 id="morpion-ia">Morpion-ia</h2>
 <p>blabla</p>
-</div>
+
+    
+  </div>
 </body>
 
 </html>
