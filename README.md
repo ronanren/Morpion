@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <title>Welcome file</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -12,11 +13,12 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#jeu-du-morpion">Jeu du morpion</a>
+<li>
 <ul>
-<li><a href="#fonctionnalités">Fonctionnalités</a></li>
+<li><a href="#jeu-du-morpion">Jeu du morpion</a></li>
 </ul>
 </li>
+<li><a href="#fonctionnalités">Fonctionnalités</a></li>
 <li><a href="#morpion">Morpion</a></li>
 <li><a href="#morpion-ia">Morpion-ia</a></li>
 </ul>
@@ -25,8 +27,8 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="jeu-du-morpion">Jeu du morpion</h1>
-<h2 id="fonctionnalités">Fonctionnalités</h2>
+      <h2 id="jeu-du-morpion">Jeu du morpion</h2>
+<h1 id="fonctionnalités">Fonctionnalités</h1>
 <ul>
 <li>
 <p>Morpion à deux joueur chacun son tour (Morpion)</p>
