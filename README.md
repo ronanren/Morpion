@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -8,8 +8,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
+ 
       
 <ul>
 <li><a href="#jeu-du-morpion">Jeu du morpion</a>
@@ -26,7 +25,8 @@
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="jeu-du-morpion">Jeu du morpion</h1>
-<p>[TOC]</p>
+ <div class="stackedit__left">
+    <div class="stackedit__toc">
 <h2 id="fonctionnalités">Fonctionnalités</h2>
 <ul>
 <li>
