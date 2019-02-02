@@ -1,14 +1,16 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README.md</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
   <div class="stackedit__html"><h1 id="jeu-du-morpion">Jeu du morpion</h1>
+<p>[TOC]</p>
 <h2 id="fonctionnalités">Fonctionnalités</h2>
 <ul>
 <li>
@@ -31,7 +33,7 @@
 <h1 id="morpion-ia">Morpion-ia</h1>
 <p>Il y a des statistiques de jeu et un bouton pour réinitialiser les scores et un autre pour redémarrer le jeu.</p>
 <p><img src="images/morpion4.png" alt=""></p>
-<p>Et lorsque je clique sur une case, l’intelligence artificielle joue pour essayer de gagner contre vous.</p>
+<p>Et lorsqu’on clique sur une case, l’ordinateur joue pour essayer de gagner contre vous.</p>
 <p><img src="images/morpion5.png" alt=""></p>
 </div>
 </body>
