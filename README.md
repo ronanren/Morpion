@@ -9,26 +9,8 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li>
-<ul>
-<li><a href="#jeu-du-morpion">Jeu du morpion</a></li>
-</ul>
-</li>
-<li><a href="#fonctionnalités">Fonctionnalités</a></li>
-<li><a href="#morpion">Morpion</a></li>
-<li><a href="#morpion-ia">Morpion-ia</a></li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h2 id="jeu-du-morpion">Jeu du morpion</h2>
-<h1 id="fonctionnalités">Fonctionnalités</h1>
+<h1 id="jeu-du-morpion">Jeu du morpion</h1>
+<h2 id="fonctionnalités">Fonctionnalités</h2>
 <ul>
 <li>
 <p>Morpion à deux joueur chacun son tour (Morpion)</p>
@@ -40,14 +22,12 @@
 <p>Utilisation de python et du module Tkinter.</p>
 </li>
 </ul>
-<h1 id="morpion">Morpion</h1>
+<h2 id="morpion">Morpion</h2>
 <p>Le jeu se joue avec le clic gauche de la souris.</p>
 <p><img src="images/morpion1.png" alt=""></p>
-<h1 id="morpion-ia">Morpion-ia</h1>
+<h2 id="morpion-ia">Morpion-ia</h2>
 <p>blabla</p>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
