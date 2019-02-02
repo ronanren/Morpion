@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -16,10 +15,10 @@
 <li><a href="#jeu-du-morpion">Jeu du morpion</a>
 <ul>
 <li><a href="#fonctionnalités">Fonctionnalités</a></li>
-<li><a href="#morpion">Morpion</a></li>
-<li><a href="#morpion-ia">Morpion-ia</a></li>
 </ul>
 </li>
+<li><a href="#morpion">Morpion</a></li>
+<li><a href="#morpion-ia">Morpion-ia</a></li>
 </ul>
 
     
@@ -39,11 +38,16 @@
 <p>Utilisation de python et du module Tkinter.</p>
 </li>
 </ul>
-<h2 id="morpion">Morpion</h2>
+<h1 id="morpion">Morpion</h1>
 <p>Le jeu se joue avec le clic gauche de la souris.</p>
 <p><img src="images/morpion1.png" alt=""></p>
-<h2 id="morpion-ia">Morpion-ia</h2>
-<p>blabla</p>
+<p>Lorsqu’on clique sur une case, l’autre joueur est invité à cliquer et à jouer.</p>
+<p><img src="images/morpion2.png" alt=""></p>
+<p>Pour finir, quand un joueur gagne, le jeu s’arrête avec le message du joueur gagnant et le jeu peut recommencer grâce au bouton “recommencer”.</p>
+<p><img src="images/morpion3.png" alt=""></p>
+<h1 id="morpion-ia">Morpion-ia</h1>
+<p>there are statistics on the right and a button to reset the scores and another to restart the game.<br>
+<img src="images/morpion4.png" alt=""></p>
 
     
   </div>
