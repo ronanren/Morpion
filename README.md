@@ -4,29 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README.md</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#jeu-du-morpion">Jeu du morpion</a>
-<ul>
-<li><a href="#fonctionnalités">Fonctionnalités</a></li>
-</ul>
-</li>
-<li><a href="#morpion">Morpion</a></li>
-<li><a href="#morpion-ia">Morpion-ia</a></li>
-</ul>
-
-    
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="jeu-du-morpion">Jeu du morpion</h1>
-<p>[TOC]</p>
+  <div class="stackedit__html"><h1 id="jeu-du-morpion">Jeu du morpion</h1>
 <h2 id="fonctionnalités">Fonctionnalités</h2>
 <ul>
 <li>
@@ -51,9 +34,7 @@
 <p><img src="images/morpion4.png" alt=""></p>
 <p>Et lorsqu’on clique sur une case, l’ordinateur joue pour essayer de gagner contre vous.</p>
 <p><img src="images/morpion5.png" alt=""></p>
-
-    
-  </div>
+</div>
 </body>
 
 </html>
